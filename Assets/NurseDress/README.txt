@@ -1,0 +1,1 @@
+In Unity3D, the open dress version needs a 2-sided shader !
